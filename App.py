@@ -4,6 +4,6 @@ while x >=0:
         break
     print(x)
     x -=1
-print("FINISH")
+print("Finish")
 
 
